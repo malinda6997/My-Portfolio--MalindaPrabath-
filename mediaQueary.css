@@ -1,0 +1,10 @@
+@media screen and (max-width: 1200px) {
+    .nav-section{
+        display: none;
+    }
+    .hamburger-menu-nav{
+        display: flex;
+    }
+   
+    
+}
